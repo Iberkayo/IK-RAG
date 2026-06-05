@@ -6,7 +6,7 @@ Sistem, anlamsal arama hassasiyetini ve tablo bütünlüğünü en üst düzeye 
 
 ---
 
-## 🚀 Öne Çıkan Özellikler
+##  Öne Çıkan Özellikler
 
 1. **Gelişmiş Tablo Okuyucu & Birleşik Hücre Desteği**:
    * Dokümanlardaki tablolar PyMuPDF ile izole edilerek Pandas üzerinden temizlenir.
@@ -28,7 +28,7 @@ Sistem, anlamsal arama hassasiyetini ve tablo bütünlüğünü en üst düzeye 
 
 ---
 
-## 📁 Klasör Yapısı
+## Klasör Yapısı
 
 ```text
 IK-Rag/
@@ -55,7 +55,7 @@ IK-Rag/
 
 ---
 
-## 🛠️ Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 ### 1. Sanal Ortam Oluşturma ve Bağımlılıkların Kurulması
 
@@ -112,7 +112,7 @@ Uygulamayı çalıştırmak için backend ve frontend sunucularını ayrı termi
 
 ---
 
-## 🎯 Doğrulanan Demo Senaryoları
+## Doğrulanan Demo Senaryoları
 
 Arayüz üzerindeki sol panelden tek tıkla test edebileceğiniz veya arama çubuğuna yazabileceğiniz örnek doğrulanmış sorular:
 
