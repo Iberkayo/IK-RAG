@@ -1,0 +1,17 @@
+{
+  "total_chunks": 845,
+  "pdf_chunks_count": 825,
+  "synthetic_chunks_count": 20,
+  "files_processed": [
+    "ik_uzmani.jsonl",
+    "yıllık-ücretli-izin-yönetmeliği.pdf",
+    "veri_analisti.jsonl",
+    "backend_dev.jsonl",
+    "4857-sayılı-iş-kanunu.pdf",
+    "sales_rep.jsonl",
+    "2-I-NSAN-KAYNAKLARI-YO-NETI-MI-PROSEDU-RU-1740125299.pdf",
+    "ikpr01-insan-kaynaklari-yonetim-proseduru-rev02pdf_20220307162008.pdf",
+    "calisanin-el-kitabi_c5a3f74fbefd497f862880bbf49d7abe.pdf",
+    "calisan_el_kitabi.pdf"
+  ]
+}
