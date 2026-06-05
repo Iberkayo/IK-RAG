@@ -124,3 +124,9 @@ Arayüz üzerindeki sol panelden tek tıkla test edebileceğiniz veya arama çub
    * *Beklenen Yanıt*: Sentetik İK Uzmanı görev tanımı belgesindeki işe alım, mülakat, bordro ve özlük süreçlerini listeleyen cevap.
 4. **İK Üretkenlik Görevi**: `"Veri Analisti iş ilanı oluştur."`
    * *Beklenen Yanıt*: Veri Analisti İş Tanımı belgesindeki görevleri, nitelikleri ve aranan yetkinlikleri kullanarak otomatik olarak hazırlanan profesyonel bir iş ilanı taslağı.
+  ### 5. Görsel Örnekler
+<img width="2175" height="484" alt="image" src="https://github.com/user-attachments/assets/76686f5d-2b8a-442c-a1d0-8b60f49cce00" />
+
+<img width="2169" height="1251" alt="image" src="https://github.com/user-attachments/assets/10a9b2c2-57d2-4b37-a58c-110d9b3ac062" />
+
+
