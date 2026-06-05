@@ -50,8 +50,7 @@ IK-Rag/
 │   └── upload_vectors.py    # OpenAI ile vektörleştirme ve Qdrant'a yükleme betiği
 ├── requirements.txt         # Gerekli Python kütüphaneleri
 ├── .gitignore               # Hassas ve yerel dosyaları hariç tutma listesi
-└── .env                     # API anahtarları şablonu (GitHub'a gönderilmez)
-```
+└── .env                     # API anahtarları şablonu 
 
 ---
 
